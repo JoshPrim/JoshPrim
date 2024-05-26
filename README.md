@@ -2,7 +2,7 @@
 
 <h2>Hi I'm Josh and always on the lookout for exciting projects 👋 </h2>
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
-<p><em>IT Freelancer, Scientific Researcher and lecturer at University of Applied Sciences Mittelhessen</em></p>
+<p><em>IT Freelancer and lecturer at University of Applied Sciences Mittelhessen</em></p>
 
 [![Linkedin: Joshua Prim](https://img.shields.io/badge/-JoshuaPrim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshua-prim-16b9411a1/)](https://www.linkedin.com/in/joshua-prim-16b9411a1/)
 ![GitHub followers](https://img.shields.io/github/followers/JoshPrim?style=social)
