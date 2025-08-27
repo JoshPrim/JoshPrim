@@ -31,7 +31,7 @@
 --- 
 #### 🏆 GitHub Trophies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygh.kolioaris.xyz/?username=JoshPrim&theme=dark_dimmed&title=-Reviews" alt="JoshPrim" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygh.kolioaris.xyz/?username=JoshPrim&theme=nord&title=-Reviews" alt="JoshPrim" /></a> </p>
 
 #### 🗂️ Highlight Projects
 
